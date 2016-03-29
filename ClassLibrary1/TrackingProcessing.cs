@@ -20,7 +20,7 @@ using System.Data.Entity.Core.Objects;
 using System.Configuration;
 using System.Diagnostics;
 
-namespace CompanyX.BL
+namespace CompanyX.BL 
 {
     public class TrackingProcessing
     {
